@@ -58,11 +58,6 @@ void solve(){
             break;
         }
     }
-    cout << mx<<" "<<mn << endl;
-    for(auto u:m){
-        cout << u.first << " " << u.second << endl;
-    }
-    cout << endl;
     cout << s << endl;
 }
 
